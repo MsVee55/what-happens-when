@@ -39,6 +39,8 @@ popular searches from the internet as a whole. As you are typing
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
 
+Pressing a key on your keyboard will send a signal to your operating system,which will then interpret the signal and send it to the currently active application
+
 The "enter" key bottoms out
 ---------------------------
 
